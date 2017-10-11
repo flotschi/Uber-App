@@ -1,0 +1,7 @@
+#Wed Aug 23 14:03:30 CEST 2017
+base.0=C\:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f439db1ab7f1e9f6a9942e0a6339375ae20cf976
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5ce3fc7ba32df850e64d157a3a6e6cd249b3cee8\\classes.dex
+base.1=C\:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_5ce3fc7ba32df850e64d157a3a6e6cd249b3cee8
+file.0=C\:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_f439db1ab7f1e9f6a9942e0a6339375ae20cf976\\classes.dex

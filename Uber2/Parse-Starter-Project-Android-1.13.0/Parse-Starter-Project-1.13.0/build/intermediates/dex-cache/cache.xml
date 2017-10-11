@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f439db1ab7f1e9f6a9942e0a6339375ae20cf976\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_854ca52e1dc207ec7595f1ea8f9851b6568e7491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="22fea638909d97d33b4562d118fb77f1e4d4e5b8">
+        <dex dex="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5ce3fc7ba32df850e64d157a3a6e6cd249b3cee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="036103d08d9011960e71da5d57bbf8ff6b4ffac9">
+        <dex dex="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5ce3fc7ba32df850e64d157a3a6e6cd249b3cee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neo\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_03dca0b0a9b4524b09fd65258db5cf63687ddf0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Neo\AndroidStudioProjects\Uber2\Parse-Starter-Project-Android-1.13.0\Parse-Starter-Project-1.13.0\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f439db1ab7f1e9f6a9942e0a6339375ae20cf976\classes.dex" />
+    </item>
+
+</items>

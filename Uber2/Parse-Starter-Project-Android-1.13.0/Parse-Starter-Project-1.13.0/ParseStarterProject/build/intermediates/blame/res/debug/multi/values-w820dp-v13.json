@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 606,
+                        "endColumn": 57,
+                        "endOffset": 659
+                    }
+                }
+            }
+        ]
+    }
+]

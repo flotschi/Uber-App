@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Neo\\.android\\build-cache\\ddfac1e9dac1d785c7dfb95ab6a35a66a18adffa\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Neo\\.android\\build-cache\\ddfac1e9dac1d785c7dfb95ab6a35a66a18adffa\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Neo\\.android\\build-cache\\ddfac1e9dac1d785c7dfb95ab6a35a66a18adffa\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Neo\\.android\\build-cache\\ddfac1e9dac1d785c7dfb95ab6a35a66a18adffa\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Neo\\.android\\build-cache\\ddfac1e9dac1d785c7dfb95ab6a35a66a18adffa\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Neo\\AndroidStudioProjects\\Uber2\\Parse-Starter-Project-Android-1.13.0\\Parse-Starter-Project-1.13.0\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Neo\\.android\\build-cache\\ddfac1e9dac1d785c7dfb95ab6a35a66a18adffa\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]
